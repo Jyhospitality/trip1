@@ -24849,3 +24849,8 @@ input[type=checkbox]:checked + label {
   color: #f00;
   font-style: normal;
 }
+
+.penci-border-arrow .inner-arrow:hover{
+    background-color:#ed3833;
+    color:#fff;
+}
